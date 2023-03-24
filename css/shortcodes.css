@@ -34,7 +34,7 @@
 /* ## Shortcodes */
 /* -- Slider Section */
 .slider-section .item::before {
-	background-color: rgba(0, 0, 0, 0.366);
+	background-color: rgba(0, 0, 0, 0.545);
 	bottom: 0;
 	content: "";
 	display: inline-block;
@@ -358,7 +358,7 @@
 	margin-bottom: 30px;
 }
 .srv-box::before {
-	background-color: rgba(238, 226, 62, 0.382);
+	background-color: rgba(41, 41, 40, 0.262);
 	content: "";
 	position: absolute;
 	left: 0;
@@ -454,7 +454,7 @@
 	position: relative;
 }
 .services-section2::before {
-	background-color: rgba(175, 193, 13, 0.773);
+	background-color: rgba(42, 42, 41, 0.797);
 	content: "";
 	display: inline-block;
 	position: absolute;
@@ -556,7 +556,7 @@
 	margin: 0 6.5px 10px;
 }
 .portfolio-categories li a {
-	color: #222222;
+	color: #222222b0;
 	font-family: 'Raleway', sans-serif;
 	font-size: 13px;
 	font-weight: bold;
@@ -581,7 +581,7 @@
 	font-family:'Lato-Medium';
 	font-size: 12px;
 	font-weight: 500;
-	color: #777777;
+	color: #232323;
 	padding: 13px 20px;
 	-webkit-transition: all 1s ease 0s;
 	-moz-transition: all 1s ease 0s;
@@ -641,7 +641,7 @@
 	width: 100%;
 }
 .portfolio-box::before {
-	background-color: rgba(238, 226, 62, 0.453);
+	background-color: rgba(48, 48, 48, 0.638);
 	bottom: -1px;
 	content: "";
 	display: inline-block;
@@ -953,7 +953,7 @@
 	position: relative;
 }
 .testimonial-section::before {
-	background-color: rgba(238, 214, 62, 0.493);
+	background-color: rgba(77, 76, 74, 0.692);
 	content: "";
 	position: absolute;
 	left: 0;
@@ -2120,7 +2120,7 @@
 }
 .project-detail-box p {
 	font-family: 'Raleway', sans-serif;
-	color: #777777;
+	color: #0b0b0b;
 	font-size: 14px;
 	font-weight: 500;
 	margin-bottom: 15px;
@@ -2148,12 +2148,12 @@
     text-transform: uppercase;
 }
 .project-content p {
-	color: #777777;
+	color: #080808;
     letter-spacing: 0.64px;
     line-height: 26px;
 }
 .project-detail-sidebar .project-content p {
-	color: #444444;
+	color: #070707;
 }
 .project-content p i { 
 	font-size: 15px;
