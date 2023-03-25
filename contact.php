@@ -119,5 +119,5 @@ if(
 	}
 
 }
-<button onclick="window.open('https://www.office.com/', '_blank')">Conectar a Microsoft 365</button>
+<button onclick="window.open('https://login.microsoftonline.com/', '_blank')">Conectar a Microsoft 365</button>
 <button onclick="window.open('https://forms.office.com/r/hz3ab84SGM', '_blank')">Ir</button>

@@ -44,10 +44,22 @@
 	<!--[if lt IE 9]>
 		<script src="js/html5/respond.min.js"></script>
     <![endif]-->
+	<style>
+		.social-icons {
+		  position: fixed;
+		  top: 90px;
+		  right: 0;
+		}
+		.social-icons a {
+		  display: inline-block;
+		  margin-left: 10px;
+		}
+	  </style>
 
 </head>
 
 <body data-offset="200" data-spy="scroll" data-target=".ow-navigation">
+
 	<!-- Loader -->
 	<div id="site-loader" class="load-complete">
 		<div class="loader">
@@ -91,7 +103,7 @@
 							</div>
 							<div class="header-cnt-box">
 								<i class="fas fa-graduation-cap"></i>
-								<button style="background-color: #d20f26; color: #fff; border-radius: 4px; padding: 10px 20px; font-size: 16px;" onclick="window.open('https://www.office.com/', '_blank')">PLATAFORMA</button>
+								<button style="background-color: #d20f26; color: #fff; border-radius: 4px; padding: 10px 20px; font-size: 16px;" onclick="window.open('https://login.microsoftonline.com/', '_blank')">PLATAFORMA</button>
 							</div>
 						</div>
 					</div>
@@ -698,6 +710,9 @@
 	
 	<!-- Library - Theme JS -->	
 	<script src="js/functions.js"></script>
-
+	<div class="social-icons">
+		<a href="https://api.whatsapp.com/send?phone=NUMERO_DE_TELEFONO" target="_blank"><img src="images/whatsapp.png" alt="WhatsApp"></a>
+		<a href="https://www.facebook.com/PAGINA_DE_FACEBOOK" target="_blank"><img src="images/Facebook.png" alt="Facebook"></a>
+	  </div>
 </body>
 </html>
