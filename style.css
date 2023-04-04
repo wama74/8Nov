@@ -1137,6 +1137,9 @@ main {
 .project-detail-banner {
 	background-image: url("images/project-detail-banner.jpg");
 }
+.project-detail-banner1 {
+	background-image: url("images/project-detail-banner1.jpg");	
+}
 .services-banner {
 	background-image: url("images/services-banner.jpg");
 }
