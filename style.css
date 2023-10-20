@@ -1138,7 +1138,16 @@ main {
 	background-image: url("images/project-detail-banner.jpg");
 }
 .project-detail-banner1 {
-	background-image: url("images/project-detail-banner1.jpg");	
+	background-image: url("images/project-detail-banner1.jpg");
+}
+.project-agro {
+	background-image: url("images/project-AGRO.jpg");	
+}
+.project-meca {
+	background-image: url("images/project-METAL.jpg");		
+}
+.project-ciencias {
+	background-image: url("images/project-ciencia.jpg");	
 }
 .services-banner {
 	background-image: url("images/services-banner.jpg");
